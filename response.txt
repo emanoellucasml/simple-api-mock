@@ -1,0 +1,34 @@
+[
+    {
+        "name": "John Dalponte",
+        "skinColor": "white"
+    },
+    {
+        "name": "Daniel Watson",
+        "skinColor": "black"
+    },
+    {
+        "name": "Philip Jacksonn",
+        "skinColor": "white"
+    },
+    {
+        "name": "Robert Obama",
+        "skinColor": "white"
+    },
+    {
+        "name": "Kevin Bush",
+        "skinColor": "black"
+    },
+    {
+        "name": "Will Trump",
+        "skinColor": "black"
+    },
+    {
+        "name": "Morgan Robert",
+        "skinColor": "black"
+    },
+    {
+        "name": "Ted Wilson",
+        "skinColor": "white"
+    }
+]
