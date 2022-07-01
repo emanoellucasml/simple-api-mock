@@ -1,5 +1,21 @@
 [
     {
+        "name": "Rob Williams",
+        "skinColor": "white"
+    },
+    {
+        "name": "Martin Luther King",
+        "skinColor": "black"
+    },
+    {
+        "name": "Rosseau",
+        "skinColor": "white"
+    },
+    {
+        "name": "Sir Isaac Newton",
+        "skinColor": "white"
+    },
+    {
         "name": "John Dalponte",
         "skinColor": "white"
     },
